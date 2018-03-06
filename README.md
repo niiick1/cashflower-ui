@@ -13,7 +13,7 @@ Run `npm install` to install dependencies
 npm start
 ```
 
-API will run on `http://localhost:3000`
+Application will run on `http://localhost:3000`
 
 ### Start the back-end server
 
